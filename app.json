@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "advanced-native-bareminimal",
+    "slug": "advanced-native-bareminimal",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "advanced-native-bareminimal"
+}
